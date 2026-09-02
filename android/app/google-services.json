@@ -44,12 +44,57 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:250886498046:android:86ae75fcf8f5101a5f27af",
+        "android_client_info": {
+          "package_name": "com.fixmates.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250886498046-eqava8v3385cr0ofsoevmhqmhap4bfm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fixmates.customer",
+            "certificate_hash": "6a46c19524db47933ea8af906adcca563db4cf75"
+          }
+        },
+        {
+          "client_id": "250886498046-vrifom648vggvkkllh48slt5p309qc7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6EwKyrybXYAoJnPGyD5fBrQvjGRO9hjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250886498046-vrifom648vggvkkllh48slt5p309qc7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:250886498046:android:ba4ce49918110b825f27af",
         "android_client_info": {
           "package_name": "com.fixmates.worker"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "250886498046-7gf73vf7j5nffg2vrukobnv4qs5tbufc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fixmates.worker",
+            "certificate_hash": "6a46c19524db47933ea8af906adcca563db4cf75"
+          }
+        },
         {
           "client_id": "250886498046-vrifom648vggvkkllh48slt5p309qc7j.apps.googleusercontent.com",
           "client_type": 3
